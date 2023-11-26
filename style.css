@@ -1,0 +1,17 @@
+.navbar{
+    width: 60%;
+    margin-left: 20%;
+    height: 100px;
+}
+.search{
+    margin-left: 50%;
+
+}
+#news{
+    width: 70%;
+}
+.search-part{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
